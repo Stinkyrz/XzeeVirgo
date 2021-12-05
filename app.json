@@ -1,5 +1,5 @@
 {
-      "name": "Aries",
+      "name": "Xzee Virgo",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "aries"
       ],
-   "repository": "https://github.com/idzero23/SaintAries",
+   "repository": "https://github.com/Stinkyrz/XzeeVirgo",
     
    "env": {
       "TOKEN": {
@@ -53,7 +53,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1192108540"
+         "value": "1435206452"
       },
       "OPERATORS": {
          "description": "Space seperated list of sudoes",
@@ -67,12 +67,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "IdzXartez"
+         "value": "Callme_stinky"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah.",
          "required": true,
-         "value": "IDZEROIDSUPPORT"
+         "value": "stinkysupport"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -184,7 +184,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/IdzXartez"
+         "value": "https://t.me/Callme_stinky"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
