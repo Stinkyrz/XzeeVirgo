@@ -51,7 +51,7 @@ spamwatch
 alphabet-detector==0.0.7
 pyrate-limiter==2.4.7
 cachetools
-python-rapidjson==1.5
+python-rapidjson==1.8
 ujson
 pretty-errors
 pygithub
