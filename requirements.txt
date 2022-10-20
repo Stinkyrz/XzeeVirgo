@@ -63,7 +63,7 @@ youtube_search_python
 lyrics_extractor
 asyncio
 cloudscraper==1.2.58
-dateparser==1.1.0
+dateparser==1.1.2
 pymongo
 dnspython
 secureme
