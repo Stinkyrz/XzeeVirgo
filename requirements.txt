@@ -76,7 +76,7 @@ redis
 pySmartDL
 bing_image_downloader
 search_engine_parser
-pytz==2021.3
+pytz==2022.6
 jikanpy
 lyricsgenius
 tswift==0.7.0
